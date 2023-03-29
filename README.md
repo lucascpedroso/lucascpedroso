@@ -3,7 +3,7 @@
 
 ## I'm a Husband, Developer, and Football fan!!
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT and last but not least NODEJS, and SQL!
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT and last but not least NODEJS, TYPESCRIPT and MySQL!
 - 🔭 I'm currently studying at [RocketSeat!](https://www.rocketseat.com.br/)
 - ⚡ Fun fact: I love playing FIFA and COD!
 
