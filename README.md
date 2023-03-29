@@ -3,10 +3,9 @@
 
 ## I'm a Husband, Developer, and Football fan!!
 
-- 🌱 I’m currently learning everything 🤣 but mainly React, NodeJs and SQL!
-- 🔭 I'm currently studying at RocketSeat
-- 🥅 2023 Goal: Learn a new Front end framework!
-- ⚡ Fun fact: I love to play FIFA and COD!
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT and last but not least NODEJS, and SQL!
+- 🔭 I'm currently studying at [RocketSeat!](https://www.rocketseat.com.br/)
+- ⚡ Fun fact: I love playing FIFA and COD!
 
 ### Connect with me:
 
