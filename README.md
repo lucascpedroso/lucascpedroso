@@ -4,7 +4,7 @@
 ## I'm a Husband, Developer, and Football fan!!
 
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT and last but not least NODEJS, TYPESCRIPT and MySQL!
-- 🔭 I'm currently studying at [RocketSeat!](https://www.rocketseat.com.br/)
+- 🔭 I'm currently pursuing a Software and Systems Analysis and Development degree at [Uninter!](https://www.uninter.com/)
 - ⚡ Fun fact: I love playing FIFA and COD!
 
 ### Connect with me:
