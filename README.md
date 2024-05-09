@@ -1,11 +1,14 @@
 # Hi there, I'm Lucas👋 
 
 
-## I'm a Husband, Developer, and Football fan!!
+## About Me
+I'm a passionate Web Developer, a dedicated husband, and an avid football enthusiast!
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT and last but not least NODEJS, TYPESCRIPT and MySQL!
-- 🔭 I'm currently pursuing a Software and Systems Analysis and Development degree at [Uninter!](https://www.uninter.com/)
-- ⚡ Fun fact: I love playing FIFA and COD!
+- 🇬🇧 I'm Currently living and working as a Web Developer in the UK.
+- 🌐 I specialize in crafting dynamic and responsive websites using HTML, CSS, JavaScript, React, and Node.js.
+- 🔭 I'm enhancing my full-stack development skills and pursuing a degree in Software and Systems Analysis and Development at [Uninter](https://www.uninter.com/).
+- 🚀 I am always looking for challenging projects and opportunities to develop my programming skills further.
+- ⚡ Fun fact: I'm a huge fan of FIFA and COD, always up for a match!
 
 ### Connect with me:
 
